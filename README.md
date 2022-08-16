@@ -1,7 +1,7 @@
 # worst-ever-calculator
 THE WORST calculator ever made
 
-But holy shesh it works
+But what the heck it works
 
 
 800031 lines of pain
